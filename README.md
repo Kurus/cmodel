@@ -1,4 +1,5 @@
 To generate weight file run 
+$mkdir wei
 $python3 prep_wei.py
 
 To convert image to raw run 
